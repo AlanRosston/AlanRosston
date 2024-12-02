@@ -12,5 +12,4 @@ Come soon......
 
 ## 🛠️ Skill
 - **Language**：Python、C++
-d
 -->
