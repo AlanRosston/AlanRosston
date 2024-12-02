@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Hello, I am  [AlanRosston] 👋
 
 🌱 I am learning：**Data Science**  
@@ -12,4 +11,3 @@ Come soon......
 
 ## 🛠️ Skill
 - **Language**：Python、C++
--->
