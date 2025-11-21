@@ -1,0 +1,9 @@
+# 排除自动生成的文件
+*.min.js linguist-generated=true
+dist/* linguist-generated=true
+
+# 排除第三方代码
+vendor/* linguist-vendored=true
+
+# 强制识别某种语言
+*.ipynb linguist-language=Python
