@@ -5,5 +5,10 @@ dist/* linguist-generated=true
 # 排除第三方代码
 vendor/* linguist-vendored=true
 
-# 强制识别某种语言
-*.ipynb linguist-language=Python
+# Jupyter Notebook 处理（修改这里）
+# *.ipynb linguist-generated=true
+
+# 排除其他常见的干扰项
+package-lock.json linguist-generated=true
+yarn.lock linguist-generated=true
+*.svg linguist-generated=true
