@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+AlanRosston+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+AlanRosston;Welcome+to+my+GitHub+Profile！" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 CODING FOR FUN </h3>
 
 <p align="center">
   <a href="mailto:3025108366@qq.com">
@@ -11,6 +10,9 @@
   <a href="https://github.com/AlanRosston">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+<a href="https://linkedin.com/in/AlanRosston">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 <br>
@@ -19,24 +21,24 @@
 <tr>
 <td width="55%" valign="top">
 
-## 🙋‍♂️ About Me
+##  About Me
 
-Hello! I am a student majoring in **Computer Science & Technology**, based in Chengdu, Sichuan 📍. 
-My current interests focus on **Artificial Intelligence** and **Agent Development** 🤖. Feel free to connect! 📫
+Hello! I am a student majoring in **Computer Science & Technology**, based in Chengdu, Sichuan. 
+My current interests focus on **Artificial Intelligence** and **Agent Development**. Feel free to connect !
 
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### 📚 Frameworks & Libraries
+###  Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -45,7 +47,7 @@ My current interests focus on **Artificial Intelligence** and **Agent Developmen
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -56,7 +58,7 @@ My current interests focus on **Artificial Intelligence** and **Agent Developmen
 </td>
 <td width="45%" valign="top">
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanRosston&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="AlanRosston's GitHub stats" width="100%" />
@@ -79,13 +81,3 @@ My current interests focus on **Artificial Intelligence** and **Agent Developmen
 </table>
 
 <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-  
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=AlanRosston&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-</div>
