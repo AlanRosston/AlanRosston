@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+AlanRosston+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 AI Enthusiast & Algorithm Learner</h3>
+<h3 align="center">🚀 CODING FOR FUN </h3>
 
 <p align="center">
   <a href="mailto:3025108366@qq.com">
@@ -21,10 +21,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **CS Student** 🇨🇳 | 🚀 **AI Enthusiast**
-- 🧠 **Interests:** Machine Learning, Data Science, Algorithms
-- 🔭 **Focus:** Deep Learning, PyTorch, Statistics
-- 🤝 **Goal:** Collaborate & Build amazing AI projects
+Hello! I am a student majoring in **Computer Science & Technology**, based in Chengdu, Sichuan 📍. 
+My current interests focus on **Artificial Intelligence** and **Agent Development** 🤖. Feel free to connect! 📫
+
 
 <br>
 
@@ -81,14 +80,12 @@
 
 <br>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlanRosston&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  
   
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://komarev.com/ghpvc/?username=AlanRosston&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   
-  <p>⭐️ From <a href="https://github.com/AlanRosston">AlanRosston</a> with 💜</p>
 </div>
