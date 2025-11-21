@@ -6,7 +6,7 @@ dist/* linguist-generated=true
 vendor/* linguist-vendored=true
 
 # Jupyter Notebook 处理（修改这里）
-# *.ipynb linguist-generated=true
+*.ipynb linguist-generated=true
 
 # 排除其他常见的干扰项
 package-lock.json linguist-generated=true
