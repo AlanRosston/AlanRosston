@@ -61,20 +61,23 @@ My current interests focus on **Artificial Intelligence** and **Agent Developmen
 ##  GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanRosston&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="AlanRosston's GitHub stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanRosston&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff,f8f5ff&title_color=A177F7&text_color=333333&icon_color=A177F7" alt="AlanRosston's GitHub stats" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRosston&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRosston&layout=compact&hide_border=true&bg_color=ffffff,f8f5ff&title_color=A177F7&text_color=333333" alt="Top Languages" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanRosston&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanRosston&hide_border=true&background=f8f5ff&ring=A177F7&fire=A177F7&currStreakLabel=333333&sideLabels=333333&currStreakNum=A177F7&sideNums=A177F7&dates=666666&stroke=A177F7" alt="GitHub Streak" width="100%" />
 </div>
+
+
+
 
 </td>
 </tr>
