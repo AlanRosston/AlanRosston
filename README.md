@@ -67,7 +67,7 @@ My current interests focus on **Artificial Intelligence** and **Agent Developmen
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-six-rouge-95.vercel.app/api/top-langs/?username=AlanRosston&layout=compact&hide_border=true&bg_color=ffffff,f8f5ff&title_color=A177F7&text_color=333333" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats-six-rouge-95.vercel.app/api/top-langs/?username=AlanRosston&layout=compact&hide=jupyter%20notebook&hide_border=true&bg_color=ffffff,f8f5ff&title_color=A177F7&text_color=333333" alt="Top Languages" width="100%" />
 </div>
 
 <br>
