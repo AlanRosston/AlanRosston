@@ -73,7 +73,7 @@ My current interests focus on **Artificial Intelligence** and **Agent Developmen
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AlanRosston&hide_border=true&background=f8f5ff&ring=A177F7&fire=A177F7&currStreakLabel=333333&sideLabels=333333&currStreakNum=A177F7&sideNums=A177F7&dates=666666&stroke=A177F7" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats-taupe-seven.vercel.app/?user=AlanRosston&hide_border=true&background=f8f5ff&ring=A177F7&fire=A177F7&currStreakLabel=333333&sideLabels=333333&currStreakNum=A177F7&sideNums=A177F7&dates=666666&stroke=A177F7" alt="GitHub Streak" width="100%" />
 </div>
 
 
