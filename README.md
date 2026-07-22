@@ -23,9 +23,8 @@
 
 ##  About Me
 
-Hello! I am a student majoring in **Computer Science & Technology**, based in Chengdu, Sichuan. 
-My current interests focus on **Artificial Intelligence** and **Agent Development**. Feel free to connect !
-
+Hello! I am an undergraduate student majoring in **Computer Science & Technology**. 
+My current interests focus on **Agentic AI** and **Post Training**. Feel free to connect!
 
 <br>
 
