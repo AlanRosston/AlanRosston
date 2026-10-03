@@ -45,8 +45,6 @@
   Feel free to connect!
 </p>
 
-<br>
-
 <h2 align="center">Tech Stack & Tools</h2>
 
 <h3 align="center">Languages</h3>
