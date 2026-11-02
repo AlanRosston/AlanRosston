@@ -26,7 +26,7 @@
 <p align="center">
   👋 Hi there! Nice to meet you! <br>
   I'm an undergraduate majoring in 
-  <strong>Computer Science & Technology</strong>.
+  <strong>CS</strong>.
 </p>
 
 <p align="center">
@@ -42,7 +42,6 @@
 
 <p align="center">
   💬 I enjoy exploring new ideas, building things, and collaborating on research.<br>
-  Feel free to connect!
 </p>
 
 <h2 align="center">Tech Stack & Tools</h2>
